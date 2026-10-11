@@ -4,10 +4,6 @@ A 32-bit RISC-V processor project developed using **SystemVerilog and Xilinx Viv
 
 ## Modules
 
-## Modules
-
-## Modules
-
 ALU (alu.sv) – Performs arithmetic and logical operations.
 Register File (regfile.sv) – Stores and provides access to processor registers.
 Sign Extension (signext.sv) – Extends immediate values to 32 bits.
